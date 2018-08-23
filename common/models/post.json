@@ -1,0 +1,13 @@
+{
+  "name": "Post",
+  "idInjection": true,
+  "properties": {
+    "content": {
+      "type": "string",
+      "required": true
+    },
+    "createdOn": {
+      "type": "date"
+    }
+  }
+}
